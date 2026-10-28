@@ -20,6 +20,8 @@
 <a href="https://giphy.com/gifs/r3GaZz7H1H6zpuIvPI/fullscreen"><img src="https://media.giphy.com/media/13oe6zo6b2B7CdsOac/giphy.gif"></a>    <a href="https://giphy.com/gifs/FjzrGJxsOzZAXaW7Vi/fullscreen"><img src="https://media.giphy.com/media/4JLERHxOEgH0tt5DZO/giphy.gif"></a>
 </p>
 
+See the https://github.com/TUDelft-SPC-Lab/ViTPose/releases to download the conflab finetuned model.
+
 This branch contains the pytorch implementation of <a href="https://arxiv.org/abs/2204.12484">ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation</a> and <a href="https://arxiv.org/abs/2212.04246">ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation</a>. It obtains 81.1 AP on MS COCO Keypoint test-dev set.
 
 <img src="figures/Throughput.png" class="left" width='80%'>
